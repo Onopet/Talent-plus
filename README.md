@@ -7,14 +7,14 @@
 
 <div>
   <p align="left">
-    <a href="https://github.com/Psalmzee/Talent-Plus-Backend/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Onopet/Talent-Plus-Backend/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.getpostman.com/collections/b8647f4e49e7da7d2ce8">Postman Demo</a>
     ·
-    <a href="https://github.com/Psalmzee/Talent-Plus-Backend/issues">Report Bug</a>
+    <a href="https://github.com/Onopet/Talent-Plus-Backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Psalmzee/Talent-Plus-Backend/issues">Request Feature</a>
+    <a href="https://github.com/Onopet/Talent-Plus-Backend/issues">Request Feature</a>
   </p>
 </div>
 # Talent-Plus
@@ -45,7 +45,7 @@
 #### Clone this repo
 
 ```sh
-git clone https://github.com/Psalmzee/Talent-Plus-Backend.git
+git clone https://github.com/Onopet/Talent-Plus-Backend.git
 ```
 
 #### Install project dependencies
@@ -54,7 +54,7 @@ git clone https://github.com/Psalmzee/Talent-Plus-Backend.git
 npm install
 ```
 
-#### Update .env with [example.env](https://github.com/Psalmzee/Talent-Plus-Backend/blob/main/example.env) in root directory
+#### Update .env with [example.env](https://github.com/Onopet/Talent-Plus-Backend/blob/main/example.env) in root directory
 
 #### Run a development server
 
@@ -131,7 +131,7 @@ npm start
 
 ---
 
-- Project Link: [Talent-Plus-API](https://github.com/Psalmzee/Talent-Plus-Backend)
+- Project Link: [Talent-Plus-API](https://github.com/Onopet/Talent-Plus-Backend)
 
 ---
 ## PROJECT OWNER
